@@ -10,9 +10,9 @@
 
  - 邓海二/男/1986 
  - 本科/广州大学计算机系 
- - 工作年限：7年
- - 技术博客：http://my.oschina.net/benhaile/blog (719 followers)
- - Git@OSC：http://git.oschina.net/benhail (28 followers)
+ - 工作年限：8年
+ - 技术博客：http://my.oschina.net/benhaile/blog (2500+ followers)
+ - Git@OSC：http://git.oschina.net/benhail (42 followers)
  - 目前岗位：部门Leader
 
 ---
@@ -20,6 +20,9 @@
 # 工作经历
 
 ## 开源中国 （ 2014年5月 ~ 至今 ）
+
+###人工智能（正在开发中）
+利用深度学习智能分类文章标签
 
 ### 众包平台(https://zb.oschina.net)
 在此产品中担任众包负责人，前期完成技术选型以及架构设计，加强产品中的技术基因、完善产品细节并使得产品如期在2015年9月实现上线，且在3个月后达到交易额300万；产品现处在发展阶段，眼里只有三件事：产品、技术、人，主要工作是定目标，分任务，带团队，还在摸索完善中。
@@ -71,7 +74,7 @@
 - 数据库相关：MySQL/Oracle/redis/mongodb/hbase
 - 版本管理、文档和自动化部署工具：Svn/Git/MAVEN/Jenkins
 - 单元测试：JUnit
-- 云和开放平台：七牛/微博开放平台/微信应用开发
+- 云和开放平台：微信应用开发/阿里云/七牛/微博开放平台
 - 有轻微的代码洁癖，喜欢前沿技术，对美的产品有所追求，不懂设计的开发不是好的全栈
 
 ---
